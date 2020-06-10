@@ -5,7 +5,7 @@ if [ $int1 -eq $int2 ]; then
 else 
 	echo "both are not equal"
 		if [ $int1 -lt $int2 ]; then
-		echo "the values are lesser"
+		echo "int1 lesser than int2"
 			else 
 			echo "values are not valid "
 fi
